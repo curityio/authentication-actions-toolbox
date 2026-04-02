@@ -1,5 +1,8 @@
 # Authentication Actions Toolbox
 
+[![Quality](https://img.shields.io/badge/quality-demo-red)](https://curity.io/resources/code-examples/status/)
+[![Availability](https://img.shields.io/badge/availability-source-blue)](https://curity.io/resources/code-examples/status/)
+
 An example custom authentication workflow that uses actions to operate on user attributes.
 
 ## Custom Authentication Workflow
